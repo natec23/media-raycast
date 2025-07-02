@@ -7,6 +7,20 @@
         "url": "https://n8c.fun/gifs/allow-it.gif"
     },
     {
+        "title": "Carpe Diem",
+        "icon": "Image",
+        "type": "Gif",
+        "tags": ["carpe diem", "after party"],
+        "url": "https://n8c.fun/gifs/carpe-diem.gif"
+    },
+    {
+        "title": "Challenge Accepted",
+        "icon":"Image",
+        "type": "Gif",
+        "tags": ["challange", "HIMYM"],
+        "url": "https://n8c.fun/gifs/challenge-accepted.gif"
+    },
+    {
         "title": "Darn",
         "icon":"Image",
         "type": "Gif",
@@ -26,6 +40,20 @@
         "type": "Gif",
         "tags": ["30 rock", "kids"],
         "url": "https://n8c.fun/gifs/fellow-kids.gif"
+    },
+    {
+        "title": "Finger Guns",
+        "icon":"Image",
+        "type": "Gif",
+        "tags": ["The Office"],
+        "url": "https://n8c.fun/gifs/finger-guns.gif"
+    },
+    {
+        "title": "Moral High Ground",
+        "icon":"Image",
+        "type": "Image",
+        "tags": ["Schitt's Creek"],
+        "url": "https://n8c.fun/gifs/high-ground.webp"
     },
     {
         "title": "Hipster Nonsense",
@@ -98,6 +126,20 @@
         "url": "https://n8c.fun/gifs/pumped.gif"
     },
     {
+        "title": "Rich",
+        "icon":"Image",
+        "type": "Gif",
+        "tags": ["rich", "community"],
+        "url": "https://n8c.fun/gifs/rich.gif"
+    },
+    {
+        "title": "Tiny",
+        "icon":"Image",
+        "type": "Gif",
+        "tags": ["tiny", "community"],
+        "url": "https://n8c.fun/gifs/tiny.gif"
+    },
+    {
         "title": "Yes - Excited",
         "icon":"Image",
         "type": "Gif",
@@ -117,6 +159,13 @@
         "type": "Gif",
         "tags": ["yes", "30 rock"],
         "url": "https://n8c.fun/gifs/yes-thousand.gif"
+    },
+    {
+        "title": "Yikes",
+        "icon":"Image",
+        "type": "Gif",
+        "tags": ["yikes", "Schitt's Creek"],
+        "url": "https://n8c.fun/gifs/yikes.gif"
     },
     {
         "title": "What",
